@@ -8,7 +8,7 @@ All files have to be place in: system/language/italian
 
 -----------------------------------------------------------------------------------------------
 
-Questa cartella contiene la traduzione italiana dei file situati in system/language/english du CodeIgniter.
+Questa cartella contiene la traduzione italiana dei file situati in system/language/english di CodeIgniter.
 NB: la traduzione potrebbe non essere perfetta e presentare quindi degli errori. 
 
 Tutti i file vanno messi in: system/language/italian
