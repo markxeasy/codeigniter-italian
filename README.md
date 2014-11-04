@@ -5,6 +5,7 @@ This folder contains the italian translation of the CodeIgniter system/language/
 NOTE: translation could be not perfect and have some errors in it.
 
 All files have to be place in: system/language/italian
+And the $config['language'] variable in the application/config/config.php file has to be changed in 'italian'.
 
 -----------------------------------------------------------------------------------------------
 
@@ -12,3 +13,4 @@ Questa cartella contiene la traduzione italiana dei file situati in system/langu
 NB: la traduzione potrebbe non essere perfetta e presentare quindi degli errori. 
 
 Tutti i file vanno messi in: system/language/italian
+Inoltre la variabile $config['language'] nel file application/config/config.php va impostata come 'italian'.
