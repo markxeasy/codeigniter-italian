@@ -1,6 +1,6 @@
 <?php
 
-$lang['migration_none_found']			= "Non sono trovate migrazioni.";
+$lang['migration_none_found']			= "Non sono state trovate migrazioni.";
 $lang['migration_not_found']			= "La migrazione richiesta non &egrave; stata trovata.";
 $lang['migration_multiple_version']		= "Sono presenti pi&ugrave; migrazioni con lo stesso numero di versione: %d.";
 $lang['migration_class_doesnt_exist']           = "La classe di migrazione \"%s\" non &egrave; stata trovata.";

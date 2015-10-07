@@ -19,7 +19,7 @@ $lang['regex_match']        = "Il campo %s field non &egrave; nel formato corret
 $lang['matches']            = "Il campo \"%s\" &egrave; diverso dal campo \"%s\".";
 $lang['is_unique']          = "Il campo %s field deve contenere un valore univoco.";
 $lang['is_natural']         = "Il campo \"%s\" deve contenere un numero.";
-$lang['is_natural_no_zero'] = "Il campo \"%s\" deve contenere un numero superiore a zero.";
+$lang['is_natural_no_zero'] = "Il campo \"%s\" deve contenere un numero maggiore di zero.";
 $lang['captcha']            = 'Codice di Controllo CAPTCHA Errato.';
 
 $lang['decimal']            = "Il campo \"%s\" deve contenere un numero decimale.";
